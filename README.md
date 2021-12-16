@@ -12,4 +12,5 @@ Except for one exercise, all are made to use command line prompts using Javascri
 - HTML Calculator: next level of the calculator exercise using Javascript, HTML and CSS;
 
 
+https://user-images.githubusercontent.com/67970737/146361286-316a377c-5531-4ba8-bfbf-980691be8b75.mp4
 
